@@ -111,18 +111,18 @@ h1 {
 .rank .up::before {
     width: 7px;
     height: 10px;
-    background: url(../img/rank_up.png) no-repeat;
+    background: url(rank_up.png) no-repeat;
 }
 .rank .down::before {
     width: 7px;
     height: 10px;
-    background: url(../img/rank_down.png) no-repeat;
+    background: url(rank_down.png) no-repeat;
 }
 .rank .keep::before {
     width: 8px;
     height: 2px;
     padding-bottom: 4px;
-    background: url(../img/rank_keep.png) no-repeat;
+    background: url(rank_keep.png) no-repeat;
 }
 .rank .up {
     color: #f82850;
@@ -160,7 +160,7 @@ h1 {
     content: '';
     width: 14px;
     height: 15px;
-    background: url(../img/like_large.png) no-repeat
+    background: url(like_large.png) no-repeat
 }
 .sub_wrap {
     margin-top: 30px;
@@ -227,7 +227,7 @@ h1 {
     bottom: 4px;
     width: 45px;
     height: 45px;
-    background: url(../img/later_watch.png) no-repeat;
+    background: url(later_watch.png) no-repeat;
 }
 .sub_list .img_wrap:hover .watch_later_link {
     display: block;
@@ -297,5 +297,5 @@ h1 {
     content: '';
     width: 11px;
     height: 10px;
-    background: url(../img/like.png) no-repeat;
+    background: url(like.png) no-repeat;
 }
